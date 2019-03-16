@@ -1,0 +1,15 @@
+C:\Users\vasudev2296\source\repos\MDI_Application\MDI_Application\bin\Debug\MDI_Application.exe.config
+C:\Users\vasudev2296\source\repos\MDI_Application\MDI_Application\bin\Debug\MDI_Application.exe
+C:\Users\vasudev2296\source\repos\MDI_Application\MDI_Application\bin\Debug\MDI_Application.pdb
+C:\Users\vasudev2296\source\repos\MDI_Application\MDI_Application\obj\Debug\MDI_Application.AboutForm.resources
+C:\Users\vasudev2296\source\repos\MDI_Application\MDI_Application\obj\Debug\MDI_Application.AddForm.resources
+C:\Users\vasudev2296\source\repos\MDI_Application\MDI_Application\obj\Debug\MDI_Application.FileNameForm.resources
+C:\Users\vasudev2296\source\repos\MDI_Application\MDI_Application\obj\Debug\MDI_Application.MDIForm.resources
+C:\Users\vasudev2296\source\repos\MDI_Application\MDI_Application\obj\Debug\MDI_Application.Properties.Resources.resources
+C:\Users\vasudev2296\source\repos\MDI_Application\MDI_Application\obj\Debug\MDI_Application.TableForm.resources
+C:\Users\vasudev2296\source\repos\MDI_Application\MDI_Application\obj\Debug\MDI_Application.UpdateForm.resources
+C:\Users\vasudev2296\source\repos\MDI_Application\MDI_Application\obj\Debug\MDI_Application.csproj.GenerateResource.Cache
+C:\Users\vasudev2296\source\repos\MDI_Application\MDI_Application\obj\Debug\MDI_Application.csproj.CoreCompileInputs.cache
+C:\Users\vasudev2296\source\repos\MDI_Application\MDI_Application\obj\Debug\MDI_Application.exe
+C:\Users\vasudev2296\source\repos\MDI_Application\MDI_Application\obj\Debug\MDI_Application.pdb
+C:\Users\vasudev2296\source\repos\MDI_Application\MDI_Application\obj\Debug\MDI_Application.csprojResolveAssemblyReference.cache
